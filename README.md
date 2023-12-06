@@ -8,4 +8,4 @@
 * Саргсян Марсел Врежевич гр. 3740105/20101
 * Фархадова Мария Багадыровна гр. 3743801/22601
 # Архитектура проекта
-![Иллюстрация к проекту](https://github.com/2ksen/Competitive-environment_of_Wildberries/raw/main/image/architecture.png)
+![Иллюстрация к проекту](https://github.com/2ksen/Competitive-environment_of_Wildberries/blob/main/architecture.png)
