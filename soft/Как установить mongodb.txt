@@ -1,0 +1,5 @@
+Сайт, откуда скачивать установщик
+https://www.mongodb.com/try/download/community
+
+Видео-урок по установке и подключению
+https://www.youtube.com/watch?v=pmjHPOPwX2A
